@@ -1,0 +1,24 @@
+{
+  "name": "unifi-api",
+  "version": "0.0.1",
+  "description": "Lib for communicating with the API of an unifi controller.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henne-/unifi-api.git"
+  },
+  "keywords": [
+    "unifi",
+    "api",
+    "v3"
+  ],
+  "author": "Hendrik Fellerhoff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/henne-/unifi-api/issues"
+  },
+  "homepage": "https://github.com/henne-/unifi-api#readme"
+}
